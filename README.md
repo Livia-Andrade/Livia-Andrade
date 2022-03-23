@@ -3,11 +3,12 @@
 
 
 - 🎬  I'm working on an apprentice for system developers.
--     Atualmente estou trabalhando como aprendiz a desenvolvedora de sistemas
+-     Atualmente estou trabalhando como aprendiz desenvolvedora de sistemas
 - 👾 I am currently learning markup language, database, programming language, mobile ...
--     Atualmente estou aprendendo linguagem de marcação, banco de dados, linguagem de programaçã o,mobile 
+-     Atualmente estou aprendendo linguagem de marcação , banco de dados , linguagem de programação ,mobile 
 - Pronomes:
--    Prononuns: Ela/dela
+-    Prononuns: she/her
+-    Pronomes: ela/dela
 
 <div>
   <a href="https://beacons.al/livia-andrade">  
