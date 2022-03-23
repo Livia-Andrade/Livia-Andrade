@@ -1,5 +1,5 @@
 ## Hello, I'm Lívia Andrade lover of technology and programming 🎲
-  Olá, sou amante de Lívia Andrade da tecnologia e programação 💻
+  Olá, sou amante da tecnologia e programação 💻
 
 
 - 🎬  I'm working on an apprentice for system developers.
