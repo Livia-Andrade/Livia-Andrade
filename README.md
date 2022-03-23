@@ -20,6 +20,6 @@
 <div>
  
  
- ! [Animação de serpente ] (https://github.com/livia-andrade/livia-andrade/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation] (https://github.com/livia-andrade/livia-andrade/blob/output/github-contribution-grid-snake.svg)
  
 </div>
