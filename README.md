@@ -6,7 +6,6 @@
 -     Atualmente estou trabalhando como aprendiz desenvolvedora de sistemas
 - 👾 I am currently learning markup language, database, programming language, mobile ...
 -     Atualmente estou aprendendo linguagem de marcação , banco de dados , linguagem de programação ,mobile 
-- Pronomes:
 -    Prononuns: she/her
 -    Pronomes: ela/dela
 
