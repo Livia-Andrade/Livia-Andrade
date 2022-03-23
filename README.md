@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hello, I'm Lívia Andrade lover of technology and programming 🎲
+  Olá, sou amante de Lívia Andrade da tecnologia e programação 💻
 
-<!--
-**Livia-Andrade/Livia-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎬  I'm working on an apprentice for system developers.
+-     Atualmente estou trabalhando como aprendiz a desenvolvedora de sistemas
+- 👾 I am currently learning markup language, database, programming language, mobile ...
+-     Atualmente estou aprendendo linguagem de marcação, banco de dados, linguagem de programaçã o,mobile 
+- Pronomes:
+-    Prononuns: Ela/dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://beacons.al/livia-andrade">  
+ <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=livia-andrade&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+ <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livia-andrade&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
+  ##
+ 
+<div>
+ 
+ 
+ ! [Animação de serpente ] (https://github.com/livia-andrade/livia-andrade/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
