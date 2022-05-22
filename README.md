@@ -26,6 +26,21 @@
   
   ##
   
+  <!-- Projetos em Andamento -->
+
+  <br>
+
+<h2 align = center>
+  Projetos em Andamento
+</h2>
+  
+  <div align = "center">
+
+
+</div>
+  
+<br>
+  
   <!--Skills -->
  <h2 align = center>
  Linguagens em Aprendizado
@@ -54,8 +69,13 @@
 
 <!-- Rodape -->
 
+<h2 align = center>
+   Contato 
+</h2>
+
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/líviarandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>&nbsp;&nbsp;
  
 ![Snake animation](https://github.com/livia-andrade/livia-andrade/blob/output/github-contribution-grid-snake.svg)
  
