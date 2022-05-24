@@ -14,10 +14,8 @@
  👾dedicando-me a me tornar desenvoledor fullstack
     (dedicating myself to becoming a fullstack developer)
 ```
-   
--    Prononuns: she/her
--    Pronomes: ela/dela
-
+  
+  <span><img src="https://visitor-badge.laobi.icu/badge?page_id=Lívia" alt="Lívia"/></span>
 <div align="center">
   <a href="https://beacons.al/livia-andrade">  
  <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=livia-andrade&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
@@ -41,7 +39,7 @@
   
 <br>
 
-  <span><img src="https://visitor-badge.laobi.icu/badge?page_id=Lívia" alt="Lívia"/></span>
+
   <!--Skills -->
  <h2 align = center>
  Linguagens em Aprendizado
