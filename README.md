@@ -40,8 +40,8 @@
 </div>
   
 <br>
-  (https://visitor-badge.laobi.icu/badge?page_id=page.id)
-  
+
+  <span><img src="https://visitor-badge.laobi.icu/badge?page_id=Lívia" alt="Lívia"/></span>
   <!--Skills -->
  <h2 align = center>
  Linguagens em Aprendizado
