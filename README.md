@@ -40,6 +40,7 @@
 </div>
   
 <br>
+  (https://visitor-badge.laobi.icu/badge?page_id=page.id)
   
   <!--Skills -->
  <h2 align = center>
