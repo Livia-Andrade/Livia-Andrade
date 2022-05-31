@@ -58,7 +58,6 @@
   <img align="center" alt="MySql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Git" width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img align="center" alt="GitHub" width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-  <img align="center" alt="GitLab"  width="40" height="40"  src="https://img.shields.io/badge/GitLab-330F63?style=lat-square&logo=gitlab&logoColor=white"></>
   <img align="center" alt="ReactJS" title="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
