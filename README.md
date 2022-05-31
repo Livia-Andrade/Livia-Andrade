@@ -13,6 +13,8 @@
 
  👾dedicando-me a me tornar desenvoledor fullstack
     (dedicating myself to becoming a fullstack developer)
+    
+  
 ```
   
   <span><img src="https://visitor-badge.laobi.icu/badge?page_id=Lívia" alt="Lívia"/></span>
