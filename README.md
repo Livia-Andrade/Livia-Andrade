@@ -16,6 +16,8 @@
     
   
 ```
+
+<img align="right" width="1000" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif"/>
   
   <span><img src="https://visitor-badge.laobi.icu/badge?page_id=Lívia" alt="Lívia"/></span>
 <div align="center">
