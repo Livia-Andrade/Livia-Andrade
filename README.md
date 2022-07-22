@@ -17,13 +17,13 @@
   
 ```
 
-<img align="center" width="800" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif"/>
+<img align="center" width="900" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif"/>
   
   <span><img src="https://visitor-badge.laobi.icu/badge?page_id=Lívia" alt="Lívia"/></span>
 <div align="center">
-  <a href="https://beacons.al/livia-andrade">  
- <img altura="160em" src="https://github-readme-stats.vercel.app/api?username=livia-andrade&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
- <img altura="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livia-andrade&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/livia-andrade">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=livia-andrade&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livia-andrade&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
   ##
