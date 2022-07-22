@@ -11,13 +11,13 @@
     (I am currently studying computer science, systems development analysis and system development.)
    
 
- 👾dedicando-me a me tornar desenvoledor fullstack
+ 👾dedicando-me a me tornar desenvolvedor fullstack
     (dedicating myself to becoming a fullstack developer)
     
   
 ```
 
-<img align="right" width="1000" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif"/>
+<img align="right" width="900" src="https://i.pinimg.com/originals/16/89/5b/16895b231b6da505e2e4acef02a3c1fe.gif"/>
   
   <span><img src="https://visitor-badge.laobi.icu/badge?page_id=Lívia" alt="Lívia"/></span>
 <div align="center">
