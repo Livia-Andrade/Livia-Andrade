@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#993399&height=120&section=header"/>
 
 <h2 align="center"> 
   Hello, I'm Lívia Andrade lover of technology and programming 🎲
@@ -93,4 +94,5 @@
  
 </div>
 
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+                                                                        
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#993399&height=120&section=footer"/>
